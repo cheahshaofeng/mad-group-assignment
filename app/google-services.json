@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42142423977",
+    "project_id": "sproutmind-ef20c",
+    "storage_bucket": "sproutmind-ef20c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42142423977:android:bad2e98ca60b895d8a42b8",
+        "android_client_info": {
+          "package_name": "my.edu.utar.mad_a2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCArLTK6z5nJYhw6xg5uCNu0iIFW5J56r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
